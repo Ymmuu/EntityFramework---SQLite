@@ -1,0 +1,7 @@
+id, title, content, blog_id, user_id
+1,golf,winner of the year,1,3
+2,fishing,best lure this season,1,3
+3,padel,next location for wpt,2,1
+4,hockey,going down in popularity,2,1
+5,pingpong,growing in popularity,2,2
+6,esport,biggest prizepool,2,2
